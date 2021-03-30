@@ -1,5 +1,9 @@
 #Calculator
 
+i = "yes"
+while [ $i="yes" ]
+do
+
 echo What operation would you like to perform: 
 echo ============================
 echo 1: Addition, 
